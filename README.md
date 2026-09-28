@@ -1,7 +1,6 @@
 # InternNova Virtual Internship — Week 1 Java Fundamentals
 
 # InternNova Virtual Internship — Week 2
-
 ## 📌 Overview
 
 This repository contains my **Week 2 task** completed as part of the **InternNova Virtual Internship**.
