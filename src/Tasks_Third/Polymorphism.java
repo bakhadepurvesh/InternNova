@@ -23,3 +23,6 @@ public class Polymorphism {
 	}
 	
 }
+
+//Method overloading means having multiple methods with the same name but different parameters in the same class.
+//Method overriding occurs when a child class provides its own implementation of a method that is already defined in the parent class.

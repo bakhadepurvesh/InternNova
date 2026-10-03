@@ -38,3 +38,8 @@ public class Employee {
 		 System.out.println("Employee Salary :"+employee_Salary);
 	 }
 }
+
+
+//A constructor in Java is a special method that is
+//automatically called when an object is created. 
+//It is mainly used to initialize the object's data members.

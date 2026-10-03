@@ -15,3 +15,7 @@ public class Employee_Main {
 	}
 	
 }
+
+//Inheritance is an important feature of Object-Oriented Programming (OOP) in Java. 
+//It allows one class (child/subclass) to acquire the properties and methods of another class (parent/superclass).
+//Inheritance is achieved using the extends keyword.

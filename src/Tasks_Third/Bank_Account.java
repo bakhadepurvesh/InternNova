@@ -36,3 +36,9 @@ public class Bank_Account {
 	}
 	
 }
+
+//this is a keyword in Java that refers to the current object.
+//It is commonly used when instance variable names and constructor/method parameter names are the same.
+
+//static is a keyword used for members that belong to the class rather than individual objects.
+//A static variable has only one shared copy for the entire class.

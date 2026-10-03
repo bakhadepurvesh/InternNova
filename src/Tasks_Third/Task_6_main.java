@@ -16,3 +16,9 @@ public class Task_6_main {
 	}
 	
 }
+
+//Encapsulation is the process of wrapping data and methods together in a single class and restricting direct access to the data.
+//In Java, encapsulation is commonly achieved using private variables and public getter/setter methods.
+
+//Abstraction means hiding implementation details and showing only the necessary functionality to the user.
+//In Java, abstraction can be achieved using abstract classes and interfaces.
